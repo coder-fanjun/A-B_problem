@@ -1,2 +1,2 @@
 # A-B_problem
-- some not good codes.
+- some not so good codes.
